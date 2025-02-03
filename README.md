@@ -1,4 +1,4 @@
 # Project-red
 This is my first Git repository
 <br>
-Author- AKSH KAUSHIK
+Author- AKSH KAUSHIK (bits pilani)
